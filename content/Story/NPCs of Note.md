@@ -1,3 +1,6 @@
+---
+draft: draft = true
+---
 **Schools of Magic**
 Fae - Lock Heart **"Rune Master"** (Headmaster/Teacher of Runes)
 Human - Shelia  (Teacher of Evocation)
