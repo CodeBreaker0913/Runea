@@ -8,7 +8,7 @@ Starting at 2nd level, whenever you cast a spell that you have inscribed with a 
 - The damage dealt by the spell is reduced by an amount equal to your Intelligence modifier (minimum of 1).
 
 **Rune Energy** 
-Beginning at 6th level, your mastery of rune magic allows you to harness the residual energy from your rune-inscribed spells. When you cast a spell that you have inscribed with a rune, you gain a number of rune charges equal to your Intelligence modifier plus your proficiency bonus (minimum of 1).
+Beginning at 6th level, your mastery of rune magic allows you to harness the residual energy from your rune-inscribed spells. When you cast a spell that you have inscribed with a rune, you gain a rune charge. You can store a maximum number of rune charges equal to your Intelligence modifier plus your proficiency bonus (minimum of 1).
 
 As a bonus action on your turn, you can expend one or more rune charges to activate one of the following effects:
 

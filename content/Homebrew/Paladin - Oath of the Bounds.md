@@ -4,13 +4,13 @@ When you take this oath, you must choose an action or goal that you must fulfill
 **Oath Spells**
 You gain spells at the paladin levels listed
 
-| Ranger Level | Spells                              |
-| ------------ | ----------------------------------- |
-| 3rd          | Ensnaring Strike, Entangle          |
-| 5th          | Web, Earth Bind                     |
-| 9th          | Tidal Wave, Wind Wall               |
-| 13th         | Dominate Beast, Freedom of Movement |
-| 17th         | Maelstrom, Reincarnate              |
+| Palading Level | Spells                              |
+| -------------- | ----------------------------------- |
+| 3rd            | Ensnaring Strike, Entangle          |
+| 5th            | Web, Earth Bind                     |
+| 9th            | Tidal Wave, Wind Wall               |
+| 13th           | Dominate Beast, Freedom of Movement |
+| 17th           | Maelstrom, Reincarnate              |
 
 
 **Channel Divinity: Bind the Unbound**  
