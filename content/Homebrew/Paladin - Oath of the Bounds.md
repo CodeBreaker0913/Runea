@@ -1,4 +1,4 @@
-**Tenets of the Bound**  
+**OathBound**  
 When you take this oath, you must choose an action or goal that you must fulfill. This could be something like "I will not lose" or "I will protect those in my care at all costs." This tenet will serve as a guiding principle that shapes your Paladin's behavior and decision-making.
 
 **Oath Spells**
@@ -41,4 +41,4 @@ At 20th level, you become an avatar of the bounds, granting you two powerful abi
 1. You have resistance to all conditions.
 2. Whenever you suffer a condition, another creature within 30 feet of you also suffers that condition.
 
-However, these benefits are only active while you are free from any bounds or restraints. If you become restrained or otherwise impaired, you lose these powerful auras.
+However, these benefits are only active while you are not free from any bounds or restraints. If you become unrestrained, you lose these powerful auras.

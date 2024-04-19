@@ -29,7 +29,7 @@ Within these four regions, the interplay of the elements has given rise to uniqu
 
 At the heart of the mystical realm of Runea lies the Academy of Runes, the premier institution for the study and mastery of ancient runic magic. Situated in between all of the Regions of Runea, the academy stands as a beacon of knowledge, drawing scholars, warriors, and adventurers from across the four regions to its hallowed halls.
 
-Founded centuries ago by the mysterious Runic Sage, the Academy of Runes is dedicated to unlocking the secrets of the elemental forces that shape Runea. Students from all walks of life - from noble scions to humble farmers - come to learn the intricate arts of runic inscription, divination, and enchantment, each seeking to harness the power of the runes for their own purposes.
+Founded centuries ago by the mysterious Rune Sage, the Academy of Runes is dedicated to unlocking the secrets of the elemental forces that shape Runea. Students from all walks of life - from noble scions to humble farmers - come to learn the intricate arts of runic inscription, divination, and enchantment, each seeking to harness the power of the runes for their own purposes.
 
 The campus itself is a sprawling complex of spire-capped towers, cloistered libraries, and expansive training grounds. Massive runes etched into the very foundations of the buildings channel the flow of arcane energies, powering the academy's defenses and fueling the spellcasting of its inhabitants.
 
