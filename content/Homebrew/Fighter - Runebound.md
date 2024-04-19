@@ -21,18 +21,28 @@ Whenever you fulfill the bounds of a Runebound rune, you gain the associated bon
 | 10th          | 3               |
 | 15th          | 4               |
 
-|Runebound Rune|Condition|Bonus|
-|---|---|---|
-|Blaze Rune|Survive being affected by 4 fire-based spells or attacks|Aura around your weapon deals an extra 1d4 + Con modifier fire damage on hit.|
-|Guardian Rune|Protect an ally from a total of 400 points of damage|Once per long rest, use your reaction to intercept an attack directed at an ally within 5 feet of you.|
-|Swift Rune|Dash or use your bonus action to Disengage a total of 10 times|Movement speed increases by 10 feet, and you can take the Dash or Disengage action as a bonus action.|
-|Vitality Rune|Regain a total of 200 hit points through healing spells, abilities, or potions|Maximum hit points increase by an amount equal to your level, and you have advantage on Constitution saving throws.|
-|Shadowstep Rune|Successfully hide or become invisible a total of 10 times|Once per short rest, teleport up to 30 feet to an unoccupied space you can see, starting and ending in dim light or darkness.|
-|Thunder Rune|Survive being affected by 4 lightning-based spells or attacks|Gain resistance to lightning damage and once per long rest, create a thunderous blast dealing 2d8 thunder damage to nearby creatures.|
-|Insight Rune|Succeed on 5 Intelligence (Investigation) checks or Wisdom (Insight) checks|Gain proficiency in Investigation and Insight skills, and have advantage on those checks.|
-|Stoneheart Rune|Survive being affected by 4 petrification effects or spells|Advantage on saving throws against being petrified and once per long rest, become immune to petrification for 1 minute.|
-|Lifedrain Rune|Defeat or destroy a total of 10 undead creatures|When you hit an undead creature with a melee attack, regain hit points equal to half the damage dealt.|
-|Feybound Rune|Successfully resist being charmed or frightened a total of 10 times|Advantage on saving throws against being charmed or frightened, and advantage on Persuasion and Insight checks against fey creatures.|
+| Runebound Rune   | Condition                                                                      | Bonus                                                                                                                                                         |
+| ---------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Blaze Rune       | Survive being affected by 4 fire-based spells or attacks                       | Aura around your weapon deals an extra 1d4 + Con modifier fire damage on hit.                                                                                 |
+| Guardian Rune    | Protect an ally from a total of 400 points of damage                           | Once per long rest, use your reaction to intercept an attack directed at an ally within 5 feet of you.                                                        |
+| Swift Rune       | Dash or use your bonus action to Disengage a total of 10 times                 | Movement speed increases by 10 feet, and you can take the Dash or Disengage action as a bonus action.                                                         |
+| Vitality Rune    | Regain a total of 200 hit points through healing spells, abilities, or potions | Maximum hit points increase by an amount equal to your level, and you have advantage on Constitution saving throws.                                           |
+| Shadowstep Rune  | Successfully hide or become invisible a total of 10 times                      | Once per short rest, teleport up to 30 feet to an unoccupied space you can see, starting and ending in dim light or darkness.                                 |
+| Thunder Rune     | Survive being affected by 4 lightning-based spells or attacks                  | Gain resistance to lightning damage and once per long rest, create a thunderous blast dealing 2d8 thunder damage to nearby creatures.                         |
+| Insight Rune     | Succeed on 5 Intelligence (Investigation) checks or Wisdom (Insight) checks    | Gain proficiency in Investigation and Insight skills, and have advantage on those checks.                                                                     |
+| Stoneheart Rune  | Survive being affected by 4 petrification effects or spells                    | Advantage on saving throws against being petrified and once per long rest, become immune to petrification for 1 minute.                                       |
+| Lifedrain Rune   | Defeat or destroy a total of 10 undead creatures                               | When you hit an undead creature with a melee attack, regain hit points equal to half the damage dealt.                                                        |
+| Feybound Rune    | Successfully resist being charmed or frightened a total of 10 times            | Advantage on saving throws against being charmed or frightened, and advantage on Persuasion and Insight checks against fey creatures.                         |
+| Frostbound Rune  | Survive being affected by 4 cold-based spells or attacks                       | Resistance to cold damage and reduce the speed of hit creatures by 10 feet on a successful hit.                                                               |
+| Mindbind Rune    | Successfully resist being charmed or frightened a total of 10 times            | Advantage on saving throws against being charmed or frightened and the ability to force a creature to make a Wisdom saving throw to be charmed or frightened. |
+| Blight Rune      | Survive being affected by 4 necrotic-based spells or attacks                   | Resistance to necrotic damage and deal additional necrotic damage when hitting undead creatures.                                                              |
+| Stormheart Rune  | Survive being affected by 4 thunder-based spells or attacks                    | Resistance to thunder damage and the ability to unleash a thunderous roar, deafening and pushing creatures away.                                              |
+| Warding Rune     | Successfully resist being targeted by 10 harmful spells or effects             | Advantage on saving throws against spells and magical effects and the ability to automatically succeed on a saving throw once per long rest.                  |
+| Soulfire Rune    | Survive being affected by 4 radiant-based spells or attacks                    | Resistance to radiant damage and the ability to frighten undead creatures on a successful hit.                                                                |
+| Earthbound Rune  | Successfully resist being knocked prone or restrained a total of 10 times      | Advantage on saving throws against being knocked prone or restrained and the ability to end one effect causing restraint.                                     |
+| Whispering Rune  | Successfully resist being targeted by 10 harmful illusions or enchantments     | Advantage on saving throws against illusions and enchantments and advantage on Intelligence (Investigation) checks to determine the nature of illusions.      |
+| Bloodstrike Rune | Survive being affected by 4 slashing, piercing, or bludgeoning attacks         | Deal bleed damage on a successful hit equal to your Constitution modifier.                                                                                    |
+| Moonshadow Rune  | Successfully resist being blinded or incapacitated a total of 10 times         | Advantage on saving throws against being blinded or incapacitated and the ability to cast Darkness centered on yourself once per long rest.                   |
 **Bare Body Combat**  
 At 3rd level, you have mastered the art of unarmored combat, allowing you to harness the natural resilience of your own body as a means of defense.
 
@@ -43,7 +53,7 @@ Starting at 7th level, you can forge a powerful mystic bond between your actions
 
 To activate this feature, you must state your intended goal to the DM, who will determine if it is reasonable and achievable within the context of the current situation. Once the DM accepts your goal, all of your Runebound runes become active for the duration of your attempt to complete that objective.
 
-If you fail in your goal, the next time you take a long rest, you lose the benefits of this feature and cannot use it again for 1d4 days.
+If you fail in your goal, the next time you take a long rest, you lose the benefits of this feature and cannot use it again for 1d4 days. Additionally, all of your Runebound runes are disabled for the same 1d4 day period.
 
 **Rune and Bones**  
 Starting at 10th level, the arcane power of your Runebound runes imbues your very bones and sinews, granting you enhanced physical resilience.

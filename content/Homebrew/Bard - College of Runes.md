@@ -8,7 +8,7 @@ Also at 3rd level, you have learned to channel the restorative power of the rune
 
 As an action, you can perform a song or recitation that lasts for at least 1 minute. At the end of the performance, you can have all creatures that were within 60 feet and able to hear you make a Wisdom saving throw against your Spell Save DC.
 
-On a successful save, the creature regains the benefits of a short rest, including regaining hit points, Hit Dice, and expended Rune spell slots. You can use this feature a number of times equal to your Charisma modifier (minimum of 1), and you regain all expended uses after a long rest.
+On a successful save, the creature regains the benefits of a short rest, including regaining hit points, Hit Dice, and expended spell slots. You can use this feature a number of times equal to your Charisma modifier (minimum of 1), and you regain all expended uses after a long rest.
 
 **Restraining Order**  
 By 6th level, you have mastered the art of weaving binding runes into your bardic performances, allowing you to temporarily restrain your foes.
