@@ -13,15 +13,17 @@ When you choose this domain at 1st level, you gain proficiency in the Arcana ski
 Additionally, you gain 2 cantrips of your choice from the wizard spell list. These cantrips count as cleric cantrips for you, and you can cast them as such. This allows you to utilize basic magical effects that complement your rune-based abilities from the start of your divine service.
 
 **Channel Divinity: State of Revelation**  
-Starting at 2nd level, you can use your Channel Divinity to briefly enter a state of divine revelation, allowing you to perceive and replicate the essence of spells being cast around you.
+Starting at 2nd level, you can use your Channel Divinity to briefly enter a state of divine revelation, allowing you to perceive and replicate the essence of spells being cast around you. 
 
-As a reaction when a creature casts a spell within your line of sight, you can enter the State of Revelation. During this fraction of a second, you attune to the magical energies of the spell being cast. Before the start of the next combat encounter, you must roll a d6 to determine the strength of the spell you can replicate.
+Before the start of the next combat encounter, you must roll a d6 to determine the strength of the spell you can replicate.
 
 The d6 roll result determines the level of spell you can recreate using this feature:
 
 1-2: You can recreate the essence of a 1st-level spell  
 3-4: You can recreate the essence of a 2nd-level spell  
 5-6: You can recreate the essence of a 3rd-level spell
+
+As a reaction when a creature casts a spell within your line of sight, you can enter the State of Revelation. During this fraction of a second, you attune to the magical energies of the spell being cast.
 
 On your turn, you can use an action to cast the replicated spell. You don't need to have this spell prepared, and it doesn't count against the number of spells you can prepare.
 
